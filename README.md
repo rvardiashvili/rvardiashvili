@@ -159,9 +159,13 @@ I'm a Computer Science student at Constructor University and a passionate Backen
 
 ---
 
-### GITHUB STATS
+### CORE COMPETENCIES
 
-[![Rati's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvardiashvili&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- **Backend Development:** Proficient in building scalable and maintainable server-side applications using Java (Spring Boot) and Python (Flask).
+- **Machine Learning:** Experience in developing and implementing ML models, particularly for image segmentation tasks using PyTorch and Lightning.
+- **API Integration:** Skilled in designing and integrating RESTful APIs for seamless data exchange between systems.
+- **Database Management:** Knowledge of both SQL and NoSQL databases.
+- **DevOps & Deployment:** Familiar with Docker, NGINX, and deploying applications on cloud platforms like AWS.
 
 ---
 
