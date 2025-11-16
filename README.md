@@ -1,157 +1,198 @@
-That's a great idea! Adding more detail and incorporating dynamic elements for showcasing your repositories will make your profile README highly professional and engaging.
-Here is a more detailed, professional draft, including suggestions for adding repository showcases and badges.
-
-🌟 Rati Vardiashvili | Aspiring Backend Developer
-
-📍 Bremen, Germany | 📧 rvardiashvili@constructor.university 1111
-
-A passionate Computer Science student and an aspiring Backend Developer focused on building robust, scalable, and efficient software solutions2. Experienced in developing Java-based integration tools and architecting data processing pipelines.
-
-
-💼 Professional Experience
-
-
-Backend Developer at SOFTGEN (Tbilisi)
-
-
-(Jul 2025 - Sep 2025) 3333
-
-Engineered Java-based integration solutions to automate interactions with the Georgian Revenue Service4.
-
-
-Streamlined data exchange processes, significantly enhancing operational efficiency for tax-related workflows5.
-
-
-Collaborated with cross-functional teams to identify system requirements and integrate APIs effectively6.
-
-
-Implemented robust code to ensure secure and reliable communication between internal systems and external services7.
-
-
-Conducted thorough testing and debugging to maintain high-quality software performance8.
-
-
-
-Intern at FINA LLC (Georgia)
-
-
-(Aug 2023 - Dec 2024) 9
-
-Developed an internal security system using Raspberry Pi, Python Flask, and NGINX10.
-
-
-Administered and maintained the company's main web platform11.
-
-
-Received in-depth training on Java EE for backend systems12.
-
-
-
-💻 Technical Skills
-
-Category
-Skills & Technologies
-Backend & Core
-
-Java 13(Spring 14), Python 15(Flask 16), C/C++ 17
-
-
-DevOps & Infrastructure
-
-Docker 18, AWS EC2 19, NGINX 20, Linux 21, Git 22, Bash 23
-
-
-Web & Frontend
-
-JavaScript 24, HTML 25, CSS 26, Wordpress 27
-
-
-Tools & Other
-
-PyTorch, Lightning, Rasterio, NumPy, Figma 28, Arduino 29
-
-
-
-
-🔬 Featured Projects
-
-
-A Scalable and Adaptable Pipeline for Satellite Image Segmentation
-
-
-(Sep 2025 - Present) 30303030
-
-Engineered a scalable, model-agnostic pipeline in Python to process gigapixel satellite images on standard hardware using a memory-efficient, chunk-based workflow31.
-
-
-Optimized performance with a multi-threaded producer-consumer architecture and developed a weighted-averaging algorithm to produce seamless, high-quality prediction maps32.
-
-
-Designed the framework to be highly configurable, allowing easy integration of different deep learning models (e.g., from Hugging Face Hub)33.
-
-
-Technologies: Python, PyTorch, Lightning, Rasterio, NumPy, Hugging Face Hub34.
-
-
-
-Millennium Innovation Award Finalist Project
-
-
-(Jan 2019 - Jan 2020) 35353535
-
-Built assistive hardware with Arduino and Visual Basic for visually impaired individuals36.
-
-
-Features included medication reminders via voice/Braille, audio recognition alerts, and music-to-vibration conversion37.
-
-
-
-✨ Repository Showcase
-
-You can use a tool like GitHub Readme Stats or Profile Readme Generator to automatically display your top repositories. Insert the code blocks for these tools here.
-Example Showcase (using Markdown for placeholders):
-
-Markdown
-
-
-## My Top Repositories
-
-[![Rati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rvardiashvili&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Satellite-Image-Pipeline
-*A deep learning pipeline for memory-efficient gigapixel image processing.*
-
-### Security-System-Flask
-*Internal security solution using Raspberry Pi and Python Flask.*
-
-
-
-🔗 Connect With Me
-
-
-Platform
-Link
-GitHub
-
-github.com/rvardiashvili 38
-
-
-LinkedIn
-
-linkedin.com/in/rvardiashvili 39
-
-
-
-
-🎓 Education
-
-Bachelor of Science in Computer Science 40
-
-
-Constructor University / Bremen 41
-
-
-Expected Completion: 2026 42
-
-
-This draft is highly detailed and uses formatting to improve scannability. Would you like me to help you find the code snippets for dynamic GitHub repository cards or contribution graphs?
+# Hi there 👋, I'm Rati Vardashvili
+
+I'm a Computer Science student at Constructor University and a passionate Backend Developer. I enjoy building scalable and efficient software solutions.
+
+- 🔭 I’m currently working on a scalable and adaptable pipeline for satellite image segmentation.
+- 👯 I’m looking to collaborate on open-source projects related to backend development or machine learning.
+- 📫 How to reach me: rvardiashvili@constructor.university
+
+---
+
+### CONNECT WITH ME
+
+[<img align="left" alt="Rati Vardashvili | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+---
+
+### LANGUAGES AND TOOLS
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.cplusplus.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+      alt="flask"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://wordpress.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"
+      alt="wordpress"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.nginx.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      alt="nginx"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://linux.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.arduino.cc/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+      alt="arduino"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://spring.io/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+      alt="spring"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+---
+
+### GITHUB STATS
+
+[![Rati's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvardiashvili&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🚀 Showcase Your Projects
+
+Here are some of the projects I'm proud of. You can replace these with your own projects.
+
+---
+
+### A Scalable and Adaptable Pipeline for Satellite Image Segmentation
+
+- **Description:** Engineered a scalable, model-agnostic pipeline in Python to process gigapixel satellite images on standard hardware using a memory-efficient, chunk-based workflow. The framework is highly configurable, allowing easy integration of different deep learning models.
+- **Technologies:** Python, PyTorch, Lightning, Rasterio, NumPy, Hugging Face Hub.
+- **[Link to Project](https://github.com/rvardiashvili/GeoTiff-Scalable-Analysis-Pipeline)**
+
+---
+
+### A Modern take on jobs board made for web developement course at Constructor University
+
+- **Description:** A Modern and Simplistic take on jobs board to provide familiarity with modern social media apps such as instagram, while maintaining complex functionality of webapps like linkedin.
+- **Technologies:** Python, Flask, JavaScript, HTML, CSS, MySQL, NGNIX
+- **[Link to Project](https://github.com/rvardiashvili/web-development-course)**
+
+---
+
+### Java based library/middleware server for rsge waybill api integration.
+
+- **Description:** Includes library for simple usage and payload building for rsge api, a packadge for hosting webserver as a middleware for interacting with api via json requests, ability to integrate custom logging and optional packadge for integration of ELK stack logging system.
+- **Technologies:** Java Spring Boot, Json, ELK, SQL 
+- **[Link to Project](https://github.com/rvardiashvili/rsge-api-java)**
+
+---
+
+[linkedin]: https://linkedin.com/in/rvardiashvili
