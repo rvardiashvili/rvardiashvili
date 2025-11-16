@@ -6,6 +6,12 @@ I'm a Computer Science student at Constructor University and a passionate Backen
 - 👯 I’m looking to collaborate on open-source projects related to backend development or machine learning.
 - 📫 How to reach me: rvardiashvili@constructor.university
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rvardiashvili&theme=radical&row=1&column=7" />
+  </a>
+</p>
+
 ---
 
 ### CONNECT WITH ME
