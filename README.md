@@ -1,13 +1,10 @@
-# rvariashvili
 <div align="center">
 
 Hi, I'm Rati Vardiashvili! 👋
 
 Backend Developer | Computer Science Student | Data Pipeline Engineer
 
-<a href="https://www.google.com/search?q=https://linkedin.com/in/rvardiashvili"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/></a>
-<a href="https://www.google.com/search?q=https://github.com/rvardiashvili"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Badge"/></a>
-<a href="mailto:rvardiashvili@constructor.university"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge"/></a>
+<!-- Social Media Badges (Fixed Links) -->
 
 </div>
 
@@ -39,7 +36,13 @@ Technology: Python, PyTorch, Lightning, Rasterio, NumPy.
 
 Innovation: Designed a model-agnostic, memory-efficient, chunk-based workflow. Achieved optimized performance using a multi-threaded producer-consumer architecture and developed a weighted-averaging algorithm for seamless prediction maps.
 
-3. Millennium Innovation Award Finalist
+3. Internship and Security System Development (FINA LLC)
+
+Role: Intern (Aug 2023 - Dec 2024)
+
+Achievement: Developed an internal security system using Raspberry Pi, Python Flask, and NGINX.
+
+4. Millennium Innovation Award Finalist
 
 Project: Built an assistive hardware system using Arduino and Visual Basic.
 
@@ -77,7 +80,11 @@ Arduino, Figma
 
 <div align="center">
 
-<!-- Customize the appearance of these cards by changing the themes, usernames, and other parameters! -->
+<!-- The stats below are dynamic and require your GitHub username (rvardiashvili) to fetch data correctly. -->
+
+
+
+
 
 </div>
 
