@@ -6,12 +6,6 @@ I'm a Computer Science student at Constructor University and a passionate Backen
 - 👯 I’m looking to collaborate on open-source projects related to backend development or machine learning.
 - 📫 How to reach me: rvardiashvili@constructor.university
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rvardiashvili&theme=radical&row=1&column=7" />
-  </a>
-</p>
-
 ---
 
 ### CONNECT WITH ME
@@ -177,31 +171,52 @@ I'm a Computer Science student at Constructor University and a passionate Backen
 
 ## 🚀 Showcase Your Projects
 
-Here are some of the projects I'm proud of. You can replace these with your own projects.
+Here are some of the projects I'm proud of.
 
 ---
 
 ### A Scalable and Adaptable Pipeline for Satellite Image Segmentation
 
+[![GeoTiff-Scalable-Analysis-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=GeoTiff-Scalable-Analysis-Pipeline&theme=radical)](https://github.com/rvardiashvili/GeoTiff-Scalable-Analysis-Pipeline)
+
 - **Description:** Engineered a scalable, model-agnostic pipeline in Python to process gigapixel satellite images on standard hardware using a memory-efficient, chunk-based workflow. The framework is highly configurable, allowing easy integration of different deep learning models.
-- **Technologies:** Python, PyTorch, Lightning, Rasterio, NumPy, Hugging Face Hub.
-- **[Link to Project](https://github.com/rvardiashvili/GeoTiff-Scalable-Analysis-Pipeline)**
+- **Technologies:** 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?style=for-the-badge)
 
 ---
 
 ### A Modern take on jobs board made for web developement course at Constructor University
 
+[![web-development-course](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=web-development-course&theme=radical)](https://github.com/rvardiashvili/web-development-course)
+
 - **Description:** A Modern and Simplistic take on jobs board to provide familiarity with modern social media apps such as instagram, while maintaining complex functionality of webapps like linkedin.
-- **Technologies:** Python, Flask, JavaScript, HTML, CSS, MySQL, NGNIX
-- **[Link to Project](https://github.com/rvardiashvili/web-development-course)**
+- **Technologies:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
 ### Java based library/middleware server for rsge waybill api integration.
 
+[![rsge-api-java](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=rsge-api-java&theme=radical)](https://github.com/rvardiashvili/rsge-api-java)
+
 - **Description:** Includes library for simple usage and payload building for rsge api, a packadge for hosting webserver as a middleware for interacting with api via json requests, ability to integrate custom logging and optional packadge for integration of ELK stack logging system.
-- **Technologies:** Java Spring Boot, Json, ELK, SQL 
-- **[Link to Project](https://github.com/rvardiashvili/rsge-api-java)**
+- **Technologies:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+
 
 ---
 
