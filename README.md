@@ -181,23 +181,19 @@ Here are some of the projects I'm proud of.
 ---
 
 ### A Scalable and Adaptable Pipeline for Satellite Image Segmentation (GSIP)
-
-[![GSIP](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=GSIP&theme=radical)](https://github.com/rvardiashvili/GSIP)
-
+- [GSIP](https://github.com/rvardiashvili/GSIP)
 - **Description:** Engineered a scalable, model-agnostic pipeline in Python to process gigapixel satellite images on standard hardware using a memory-efficient, chunk-based workflow. The framework is highly configurable, allowing easy integration of different deep learning models.
 - **Technologies:** 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?style=for-the-badge)
 
 ---
 
 ### Orchard
-
-[![ORCHARD](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=ORCHARD&theme=radical)](https://github.com/rvardiashvili/ORCHARD)
-
+- [Orchard](https://github.com/rvardiashvili/ORCHARD)
 - **Description:** Orchard: Seamlessly bridge the Apple iCloud ecosystem (Drive, Notes, Handoff) to your Linux desktop.
 - **Technologies:** 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -205,9 +201,7 @@ Here are some of the projects I'm proud of.
 ---
 
 ### Java based library/middleware server for RS.ge Waybill API integration (RSGE-API-JAVA)
-
-[![RSGE-API-JAVA](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=RSGE-API-JAVA&theme=radical)](https://github.com/rvardiashvili/RSGE-API-JAVA)
-
+- [RSGE-API-JAVA](https://github.com/rvardiashvili/RSGE-API-JAVA)
 - **Description:** Complete RS.ge Electronic Waybill API implementation in Java with Spring Boot. SOAP client, service layer, fluent waybill builder, and comprehensive examples for Georgian Revenue Service integration.
 - **Technologies:** 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -219,12 +213,10 @@ Here are some of the projects I'm proud of.
 ---
 
 ### A Modern take on jobs board made for web development course at Constructor University (WEB-DEVELOPMENT-COURSE)
-
-[![WEB-DEVELOPMENT-COURSE](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=WEB-DEVELOPMENT-COURSE&theme=radical)](https://github.com/rvardiashvili/WEB-DEVELOPMENT-COURSE)
-
+- [WEB-DEVELOPMENT-COURSE](https://github.com/rvardiashvili/WEB-DEVELOPMENT-COURSE)
 - **Description:** A Modern and Simplistic take on jobs board to provide familiarity with modern social media apps such as instagram, while maintaining complex functionality of webapps like linkedin.
 - **Technologies:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
