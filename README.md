@@ -1,8 +1,13 @@
 # Hi there 👋, I'm Rati Vardashvili
 
-I'm a Computer Science student at Constructor University and a passionate Backend Developer. I enjoy building scalable and efficient software solutions.
+I'm a Computer Science graduate from Constructor University and currently working in Professor Dr. Peter Baumann's L-SIS research group, with a passion for building scalable and efficient software solutions.
 
-- 🔭 I’m currently working on a scalable and adaptable pipeline for satellite image segmentation.
+## Current Research Focus
+
+- Advancing thesis research into publishable work, exploring integration with AI features in geospatial data systems.
+- Investigating the impact of data quality, specifically null values, on machine learning model inference with satellite imagery.
+- Developing capabilities for large language models to interact directly with geospatial databases using specialized protocols.
+
 - 👯 I’m looking to collaborate on open-source projects related to backend development or machine learning.
 - 📫 How to reach me: rvardiashvili@constructor.university
 
@@ -175,9 +180,9 @@ Here are some of the projects I'm proud of.
 
 ---
 
-### A Scalable and Adaptable Pipeline for Satellite Image Segmentation
+### A Scalable and Adaptable Pipeline for Satellite Image Segmentation (GSIP)
 
-[![GeoTiff-Scalable-Analysis-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=GeoTiff-Scalable-Analysis-Pipeline&theme=radical)](https://github.com/rvardiashvili/GeoTiff-Scalable-Analysis-Pipeline)
+[![GSIP](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=GSIP&theme=radical)](https://github.com/rvardiashvili/GSIP)
 
 - **Description:** Engineered a scalable, model-agnostic pipeline in Python to process gigapixel satellite images on standard hardware using a memory-efficient, chunk-based workflow. The framework is highly configurable, allowing easy integration of different deep learning models.
 - **Technologies:** 
@@ -189,9 +194,33 @@ Here are some of the projects I'm proud of.
 
 ---
 
-### A Modern take on jobs board made for web developement course at Constructor University
+### Orchard
 
-[![web-development-course](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=web-development-course&theme=radical)](https://github.com/rvardiashvili/web-development-course)
+[![ORCHARD](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=ORCHARD&theme=radical)](https://github.com/rvardiashvili/ORCHARD)
+
+- **Description:** Orchard: Seamlessly bridge the Apple iCloud ecosystem (Drive, Notes, Handoff) to your Linux desktop.
+- **Technologies:** 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+### Java based library/middleware server for RS.ge Waybill API integration (RSGE-API-JAVA)
+
+[![RSGE-API-JAVA](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=RSGE-API-JAVA&theme=radical)](https://github.com/rvardiashvili/RSGE-API-JAVA)
+
+- **Description:** Complete RS.ge Electronic Waybill API implementation in Java with Spring Boot. SOAP client, service layer, fluent waybill builder, and comprehensive examples for Georgian Revenue Service integration.
+- **Technologies:** 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+
+---
+
+### A Modern take on jobs board made for web development course at Constructor University (WEB-DEVELOPMENT-COURSE)
+
+[![WEB-DEVELOPMENT-COURSE](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=WEB-DEVELOPMENT-COURSE&theme=radical)](https://github.com/rvardiashvili/WEB-DEVELOPMENT-COURSE)
 
 - **Description:** A Modern and Simplistic take on jobs board to provide familiarity with modern social media apps such as instagram, while maintaining complex functionality of webapps like linkedin.
 - **Technologies:**
@@ -202,20 +231,6 @@ Here are some of the projects I'm proud of.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-### Java based library/middleware server for rsge waybill api integration.
-
-[![rsge-api-java](https://github-readme-stats.vercel.app/api/pin/?username=rvardiashvili&repo=rsge-api-java&theme=radical)](https://github.com/rvardiashvili/rsge-api-java)
-
-- **Description:** Includes library for simple usage and payload building for rsge api, a packadge for hosting webserver as a middleware for interacting with api via json requests, ability to integrate custom logging and optional packadge for integration of ELK stack logging system.
-- **Technologies:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 
 ---
